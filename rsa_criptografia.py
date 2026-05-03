@@ -1,3 +1,8 @@
+"""
+Algoritmo de Criptografia RSA
+Implementação do zero sem bibliotecas externas
+Desenvolvido por: Kauê Vitor Pereira Santos
+"""
 import random
 
 def primos(n):
